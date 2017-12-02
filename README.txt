@@ -1,10 +1,11 @@
-Nombre: Esteban Ignacio Oyarzun Figueroa
-Rut: 19.621.797-5
+Nombre: ESTEBAN IGNACIO OYARZUN FIGUEROA
 
+Nombre: MARCOS ANDRES VARGAS SERON
 
+Link Github: https://github.com/MKDZero/Evaluacion-3.git
 
 Nombre de usuario 1: Admin
-Contraseña: Admin
+ContraseÃ±a: Admin
 
 Nombre de usuario 2: root
-Contraseña: root
+ContraseÃ±a: root
